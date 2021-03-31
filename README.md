@@ -2,6 +2,7 @@
 Currency Comparision web to compare currency exchange rates from different third party websites and compare them.
 
 Access URL: https://currency-compare.s3.amazonaws.com/Code/WebApp/public/index.html
+
 (NOTE: Database features not be available with an access with this URL because of less resources and db cannot be hosted on cloud.)
 **Concept**
    A currency compare is a comparison website that compares the currency rate from three different third-party websites against GBP. Combination of various technologies has been      used to get the core functionalities done. Those technologies are summarised below.
