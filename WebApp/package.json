@@ -1,0 +1,22 @@
+{
+   "name": "corpora",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "code": "^5.2.4",
+    "express": "^4.17.1",
+    "mocha": "^8.2.1",
+    "mysql": "^2.18.1",
+    "node": "^14.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
