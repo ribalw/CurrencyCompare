@@ -10,7 +10,7 @@ Access URL: https://currency-compare.s3.amazonaws.com/Code/WebApp/public/index.h
    
 **Technologies**
    •	Front End: HTML, CSS, jQuery, and Bootstrap.
-   •	Web Scrapping: Maven, Spring, Hibernate, Threads, JSoup.
+   •	Web Scrapping: Java, Maven, Spring, Hibernate, Threads, JSoup.
    •	Website server: Node.js, JavaScript, RESTful web services.
    •	Database: MySQL, HeidiSql.
    •	Testing: Junit 5, Mocha & Chai. 
